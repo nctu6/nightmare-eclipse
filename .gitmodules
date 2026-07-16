@@ -4,3 +4,6 @@
 [submodule "MSNightmare/GreatXML"]
 	path = MSNightmare/GreatXML
 	url = https://github.com/MSNightmare/GreatXML
+[submodule "MSNightmare/LegacyHive"]
+	path = MSNightmare/LegacyHive
+	url = https://github.com/MSNightmare/LegacyHive
