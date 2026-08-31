@@ -10,3 +10,6 @@
 [submodule "MSNightmare/PrettyPrague"]
 	path = MSNightmare/PrettyPrague
 	url = https://github.com/MSNightmare/PrettyPrague
+[submodule "MSNightmare/GreenSection"]
+	path = MSNightmare/GreenSection
+	url = https://github.com/MSNightmare/GreenSection
