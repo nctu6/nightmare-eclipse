@@ -7,3 +7,6 @@
 [submodule "MSNightmare/LegacyHive"]
 	path = MSNightmare/LegacyHive
 	url = https://github.com/MSNightmare/LegacyHive
+[submodule "MSNightmare/PrettyPrague"]
+	path = MSNightmare/PrettyPrague
+	url = https://github.com/MSNightmare/PrettyPrague
