@@ -13,3 +13,6 @@
 [submodule "MSNightmare/GreenSection"]
 	path = MSNightmare/GreenSection
 	url = https://github.com/MSNightmare/GreenSection
+[submodule "MSNightmare/FalconFlank"]
+	path = MSNightmare/FalconFlank
+	url = https://github.com/MSNightmare/FalconFlank
