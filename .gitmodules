@@ -16,3 +16,6 @@
 [submodule "MSNightmare/FalconFlank"]
 	path = MSNightmare/FalconFlank
 	url = https://github.com/MSNightmare/FalconFlank
+[submodule "MSNightmare/BigDiskBuster"]
+	path = MSNightmare/BigDiskBuster
+	url = https://github.com/MSNightmare/BigDiskBuster
