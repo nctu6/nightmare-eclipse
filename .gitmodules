@@ -28,3 +28,6 @@
 [submodule "MSNightmare/HardBreacher"]
 	path = MSNightmare/HardBreacher
 	url = https://github.com/MSNightmare/HardBreacher
+[submodule "MSNightmare/BrokenArrow"]
+	path = MSNightmare/BrokenArrow
+	url = https://github.com/MSNightmare/BrokenArrow
