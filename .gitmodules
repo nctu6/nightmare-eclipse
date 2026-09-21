@@ -19,3 +19,6 @@
 [submodule "MSNightmare/BigDiskBuster"]
 	path = MSNightmare/BigDiskBuster
 	url = https://github.com/MSNightmare/BigDiskBuster
+[submodule "MSNightmare/ShieldBreak"]
+	path = MSNightmare/ShieldBreak
+	url = https://github.com/MSNightmare/ShieldBreak
