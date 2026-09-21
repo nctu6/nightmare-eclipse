@@ -22,3 +22,6 @@
 [submodule "MSNightmare/ShieldBreak"]
 	path = MSNightmare/ShieldBreak
 	url = https://github.com/MSNightmare/ShieldBreak
+[submodule "MSNightmare/ShieldCrash"]
+	path = MSNightmare/ShieldCrash
+	url = https://github.com/MSNightmare/ShieldCrash
