@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ShieldCrash.vcxproj" Id="9fd00008-d30e-4a2b-8db8-89f6a597e750" />
+</Solution>
