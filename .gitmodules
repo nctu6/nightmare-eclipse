@@ -1,0 +1,6 @@
+[submodule "MSNightmare/FastUnlock"]
+	path = MSNightmare/FastUnlock
+	url = https://github.com/MSNightmare/FastUnlock
+[submodule "MSNightmare/SignDrop"]
+	path = MSNightmare/SignDrop
+	url = https://github.com/MSNightmare/SignDrop
